@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "receiver server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "dependencies": {
+    "formidable": "1.1.1",
+    "mkdirp": "0.5.0"
+  },
+  "author": "weiruizhe",
+  "license": "ISC"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "receiver client",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "author": "weiruizhe",
+  "license": "ISC"
+}
